@@ -1,5 +1,6 @@
 /* eslint-disable  func-names */
 /* eslint-disable  no-console */
+/* test note */
 
 const Alexa = require('ask-sdk-core');
 const questions = require('./questions');
